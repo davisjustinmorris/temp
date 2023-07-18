@@ -1,1 +1,11 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCh87zg0YkFO99GZrcAa2WionoMdPio9Tmf3Wbh0kewJz/nxR8dsI5pTDRH9KFoRAqUCrXIzUVmRHPD+pIrYtBL5aGPPvkn3gXzxTKqEemawgcXc2DtPfwUn1ffcpkUBifmXBuSwBJK50IKO/ey565tTzxwptE3y8wIcUMpLWT6LWDCWvglVOWkCodtWKffwxMyneD7JHItWI8Hv56dsM/Euu+0NXpV9HizPLGBb//T59BmUUZONfif9mGXPB2lNenU1/gIKihcoXlerhkCIFY9wC+S9UTn1tXvCi4OwKjWCL8B5iBFB4twUGMhhVGL9KmDQBZqcC62Dq9/pnlBmHZyxloo/cF0RSiz3UY3ROmEkDSSGMXSWsXl0uuENLauKw0PsqYk1DHT5MJO1Ie1Xbrv8sGGIhhBgeImfCHeI/kzzI6suplOb/AdYKrmSsP1uqyfJdss18+KC7+hKrvqlNblmkkeBivHU5aDLH9hg3zfhEf1p9108rBBCViT1NY4oEM= ustr\215917@H541LTRV
+Place this verification token in a file:
+
+loaderio-46d0ca4507396fc67fcaa89a4ee3c85c
+
+
+2
+Upload the file to your server so it is accessible at one of the following URLs:
+
+http://portal.nationads.in/loaderio-46d0ca4507396fc67fcaa89a4ee3c85c.txt
+http://portal.nationads.in/loaderio-46d0ca4507396fc67fcaa89a4ee3c85c.html
+http://portal.nationads.in/loaderio-46d0ca4507396fc67fcaa89a4ee3c85c/
